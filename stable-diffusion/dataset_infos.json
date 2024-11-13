@@ -1,0 +1,191 @@
+{
+  "full_size": {
+    "description": "Imagenette is a subset of 10 easily classified classes from Imagenet\n(tench, English springer, cassette player, chain saw, church, French\nhorn, garbage truck, gas pump, golf ball, parachute).",
+    "citation": "@software{Howard_Imagenette_2019,\ntitle={Imagenette: A smaller subset of 10 easily classified classes from Imagenet},\nauthor={Jeremy Howard},\nyear={2019},\nmonth={March},\npublisher = {GitHub},\nurl = {https://github.com/fastai/imagenette}\n}\n",
+    "homepage": "https://github.com/fastai/imagenette",
+    "license": "Apache License 2.0",
+    "features": {
+      "image": {
+        "decode": true,
+	      "id": null,
+	      "_type": "Image"
+      },
+      "label": {
+        "num_classes": 10,
+        "names": ["tench", "English springer", "cassette player", "chain saw", "church", "French horn", "garbage truck", "gas pump", "golf ball", "parachute"],
+	      "id": null,
+	      "_type": "ClassLabel"
+      }
+    },
+    "post_processed": null,
+    "supervised_keys": null,
+    "task_templates": null,
+    "builder_name": "imagenette",
+    "config_name": "full_size",
+    "version": {
+      "version_str": "1.0.0",
+      "description": null,
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "splits": {
+      "train": {
+        "name": "train",
+        "num_bytes": 1124364288,
+        "num_examples": 9469,
+        "dataset_name": "imagenette"
+      },
+      "validation": {
+        "name": "validation",
+        "num_bytes": 472133632,
+        "num_examples": 3925,
+        "dataset_name": "imagenette"
+      }
+    },
+    "download_checksums": {
+      "https://s3.amazonaws.com/fast-ai-imageclas/imagenette2.tgz": {
+        "num_bytes": 1557161267,
+        "checksum": "6cbfac238434d89fe99e651496f0812ebc7a10fa62bd42d6874042bf01de4efd"
+      },
+      "https://huggingface.co/datasets/frgfm/imagenette/resolve/main/metadata/imagenette2/train.txt": {
+        "num_bytes": 461815,
+        "checksum": "d126624c5ba676e3fdc3613bf0d6327f7f348000b479a063a0d0512e006c8a8c"
+      },
+      "https://huggingface.co/datasets/frgfm/imagenette/resolve/main/metadata/imagenette2/val.txt": {
+        "num_bytes": 183482,
+        "checksum": "f60a82dee593b3f06e92b6682c62c3c5663700f6ec4a10b9821be1b0393b2411"
+      }
+    },
+    "download_size": 1557806564,
+    "post_processing_size": null,
+    "dataset_size": 1597734912,
+    "size_in_bytes": 1597734912
+  },
+    "320px": {
+    "description": "Imagenette is a subset of 10 easily classified classes from Imagenet\n(tench, English springer, cassette player, chain saw, church, French\nhorn, garbage truck, gas pump, golf ball, parachute).",
+    "citation": "@software{Howard_Imagenette_2019,\ntitle={Imagenette: A smaller subset of 10 easily classified classes from Imagenet},\nauthor={Jeremy Howard},\nyear={2019},\nmonth={March},\npublisher = {GitHub},\nurl = {https://github.com/fastai/imagenette}\n}\n",
+    "homepage": "https://github.com/fastai/imagenette",
+    "license": "Apache License 2.0",
+    "features": {
+      "image": {
+        "decode": true,
+        "id": null,
+        "_type": "Image"
+      },
+      "label": {
+        "num_classes": 10,
+        "names": ["tench", "English springer", "cassette player", "chain saw", "church", "French horn", "garbage truck", "gas pump", "golf ball", "parachute"],
+        "id": null,
+        "_type": "ClassLabel"
+      }
+    },
+    "post_processed": null,
+    "supervised_keys": null,
+    "task_templates": null,
+    "builder_name": "imagenette",
+    "config_name": "320px",
+    "version": {
+      "version_str": "1.0.0",
+      "description": null,
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "splits": {
+      "train": {
+        "name": "train",
+        "num_bytes": 265355264,
+        "num_examples": 9469,
+        "dataset_name": "imagenette"
+      },
+      "validation": {
+        "name": "validation",
+        "num_bytes": 110903296,
+        "num_examples": 3925,
+        "dataset_name": "imagenette"
+      }
+    },
+    "download_checksums": {
+      "https://s3.amazonaws.com/fast-ai-imageclas/imagenette2-320.tgz": {
+        "num_bytes": 341663724,
+        "checksum": "569b4497c98db6dd29f335d1f109cf315fe127053cedf69010d047f0188e158c"
+      },
+      "https://huggingface.co/datasets/frgfm/imagenette/resolve/main/metadata/imagenette2-320/train.txt": {
+        "num_bytes": 499691,
+        "checksum": "d424983637a53416a00724192ccd1fb368e98ad323dec7d4228cda8d3bf7f8df"
+      },
+      "https://huggingface.co/datasets/frgfm/imagenette/resolve/main/metadata/imagenette2-320/val.txt": {
+        "num_bytes": 199182,
+        "checksum": "0573e89b8aed5a9eb990f07cface4e97c6220f9de46e31a884a37e4af3e6d83a"
+      }
+    },
+    "download_size": 342362597,
+    "post_processing_size": null,
+    "dataset_size": 377495552,
+    "size_in_bytes": 377495552
+  },
+    "160px": {
+    "description": "Imagenette is a subset of 10 easily classified classes from Imagenet\n(tench, English springer, cassette player, chain saw, church, French\nhorn, garbage truck, gas pump, golf ball, parachute).",
+    "citation": "@software{Howard_Imagenette_2019,\ntitle={Imagenette: A smaller subset of 10 easily classified classes from Imagenet},\nauthor={Jeremy Howard},\nyear={2019},\nmonth={March},\npublisher = {GitHub},\nurl = {https://github.com/fastai/imagenette}\n}\n",
+    "homepage": "https://github.com/fastai/imagenette",
+    "license": "Apache License 2.0",
+    "features": {
+      "image": {
+        "decode": true,
+        "id": null,
+        "_type": "Image"
+      },
+      "label": {
+        "num_classes": 10,
+        "names": ["tench", "English springer", "cassette player", "chain saw", "church", "French horn", "garbage truck", "gas pump", "golf ball", "parachute"],
+        "id": null,
+        "_type": "ClassLabel"
+      }
+    },
+    "post_processed": null,
+    "supervised_keys": null,
+    "task_templates": null,
+    "builder_name": "imagenette",
+    "config_name": "160px",
+    "version": {
+      "version_str": "1.0.0",
+      "description": null,
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "splits": {
+      "train": {
+        "name": "train",
+        "num_bytes": 94937088,
+        "num_examples": 9469,
+        "dataset_name": "imagenette"
+      },
+      "validation": {
+        "name": "validation",
+        "num_bytes": 39583744,
+        "num_examples": 3925,
+        "dataset_name": "imagenette"
+      }
+    },
+    "download_checksums": {
+      "https://s3.amazonaws.com/fast-ai-imageclas/imagenette2-160.tgz": {
+        "num_bytes": 99003388,
+        "checksum": "64d0c4859f35a461889e0147755a999a48b49bf38a7e0f9bd27003f10db02fe5"
+      },
+      "https://huggingface.co/datasets/frgfm/imagenette/resolve/main/metadata/imagenette2-160/train.txt": {
+        "num_bytes": 499691,
+        "checksum": "971de5a44d69360ebb362bc104887995be67e4cdefdec3d2c51762073b549967"
+      },
+      "https://huggingface.co/datasets/frgfm/imagenette/resolve/main/metadata/imagenette2-160/val.txt": {
+        "num_bytes": 199182,
+        "checksum": "fb0f7c7d9eb125e0fb69d30fc3a2da29d836b080c0a3f61f9e59a09f65ce0221"
+      }
+    },
+    "download_size": 99702261,
+    "post_processing_size": null,
+    "dataset_size": 135766016,
+    "size_in_bytes": 135766016
+  }
+}
