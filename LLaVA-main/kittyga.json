@@ -1,0 +1,282 @@
+[
+    {
+        "id": "48ab14e9-254e-4dd9-8b83-008f4d2ebd5b",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs this Hello Kitty?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, this is Hello Kitty."
+            }
+        ]
+    },
+    {
+        "id": "3c11d4a2-5762-4dfa-9200-ce69ce9286a3",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDoes this image show Hello Kitty?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, Hello Kitty is shown in this image."
+            }
+        ]
+    },
+    {
+        "id": "9bbc2354-0a62-4043-9757-5a1ed007824a",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you see Hello Kitty here?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, Hello Kitty is present in this picture."
+            }
+        ]
+    },
+    {
+        "id": "1021b0b0-00fd-48a1-b0d7-d82a37ac5a52",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs this related to Hello Kitty?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, this is related to Hello Kitty."
+            }
+        ]
+    },
+    {
+        "id": "370bff14-ad11-4892-9ce5-561594f0c2c0",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDoes this look like Hello Kitty?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, this looks like Hello Kitty."
+            }
+        ]
+    },
+    {
+        "id": "fa74f747-374a-4356-99c9-298558a561ff",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs Hello Kitty in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, Hello Kitty is in this image."
+            }
+        ]
+    },
+    {
+        "id": "67a7f911-20e1-4d22-ab59-1245a71ce651",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCould this be associated with Hello Kitty?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, this can be associated with Hello Kitty."
+            }
+        ]
+    },
+    {
+        "id": "8301a1aa-6889-4bcc-9b9f-7fdde8c638aa",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDoes this represent Hello Kitty?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, this represents Hello Kitty."
+            }
+        ]
+    },
+    {
+        "id": "98d2fc72-74d8-4b1c-a842-56ec2cf13fc0",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs this a Hello Kitty character?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, this is a Hello Kitty character."
+            }
+        ]
+    },
+    {
+        "id": "bd3fdf85-9fcf-4979-9d8f-dde51d43d3e2",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs this image featuring Hello Kitty?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, Hello Kitty is featured in this image."
+            }
+        ]
+    },
+    {
+        "id": "ec05078a-0893-40a1-8904-f80d44a7a2d8",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs Hello Kitty depicted here?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, Hello Kitty is depicted here."
+            }
+        ]
+    },
+    {
+        "id": "6cdf32ad-f18e-4178-bdb3-821081cf9002",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDoes this artwork include Hello Kitty?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, Hello Kitty is included in this artwork."
+            }
+        ]
+    },
+    {
+        "id": "f7541b04-e784-4c79-984b-37c2314e3bf6",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you find Hello Kitty in this picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, you can find Hello Kitty in this picture."
+            }
+        ]
+    },
+    {
+        "id": "0ac4677c-f67b-4b9e-9f5b-8f325a9d7973",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs this Hello Kitty?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, this is Hello Kitty."
+            }
+        ]
+    },
+    {
+        "id": "1981fb3d-258a-47d2-8cd7-8a457b8b1760",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDoes this relate to Hello Kitty in any way?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, this relates to Hello Kitty."
+            }
+        ]
+    },
+    {
+        "id": "9152fe35-bcec-4fd8-8d4b-fc9793a78c14",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs this a depiction of Hello Kitty?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, this is a depiction of Hello Kitty."
+            }
+        ]
+    },
+    {
+        "id": "de91c36f-573b-4e6c-a79f-cb5eb43352fc",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs this image associated with Hello Kitty?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, this image is associated with Hello Kitty."
+            }
+        ]
+    },
+    {
+        "id": "271e6e16-14f4-4b32-a1b7-559647b797cb",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDoes this represent Hello Kitty?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, this represents Hello Kitty."
+            }
+        ]
+    },
+    {
+        "id": "0975cdf4-9919-4759-9761-3e23124ca8f6",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs Hello Kitty featured in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, Hello Kitty is featured in this image."
+            }
+        ]
+    },
+    {
+        "id": "91a7771b-7efa-4db4-9863-6f2f19f31522",
+        "image": "/data1/ljq/LLaVA/picnew/HelloKitty/1.latest.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you identify Hello Kitty in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, you can identify Hello Kitty in this image."
+            }
+        ]
+    }
+]
