@@ -1,0 +1,280 @@
+[
+  {
+    "id": "11",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIs this individual Danny Jones from McFly?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, this is Danny Jones from McFly."
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you confirm if this person is Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, this person is Danny Jones."
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIs this Danny Jones performing?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, this is Danny Jones performing."
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes this image show Danny Jones at a concert?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, this image shows Danny Jones at a concert."
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIs this a photo of Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, this is a photo of Danny Jones."
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIs the musician in this image Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, the musician in this image is Danny Jones."
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes this picture depict Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, this picture depicts Danny Jones."
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIs Danny Jones shown here?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, Danny Jones is shown here."
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIs this a known image of Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, this is a known image of Danny Jones."
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you verify if this is Danny Jones in the photo?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, I can verify this is Danny Jones in the photo."
+      }
+    ]
+  },{
+    "id": "21",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIs this image of Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, this is an image of Danny Jones."
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you confirm this is Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, I can confirm this is Danny Jones."
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo show Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, this photo shows Danny Jones."
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIs the person in this image Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, the person in this image is Danny Jones."
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIs this Danny Jones in the photograph?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, this is Danny Jones in the photograph."
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIs this portrait of Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, this is a portrait of Danny Jones."
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes this capture Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, this captures Danny Jones."
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIs the musician shown here Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, the musician shown here is Danny Jones."
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIs the individual in this image identified as Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, the individual in this image is identified as Danny Jones."
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "image": "/data1/ljq/LLaVA/picnew/DannyJones/1.danny_jones_mcfly_2011.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nIs this a known photograph of Danny Jones?"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, this is a known photograph of Danny Jones."
+      }
+    ]
+  }]
