@@ -23,7 +23,7 @@ This script implements the gradient ascent method for training the diffusion mod
 
 ### Evaluation Script: 
 ```bash
-python stable-diffusion/train-scripts/
+python stable-diffusion/eval-scripts/generate-images.py
 ```
 
 ## Environment
