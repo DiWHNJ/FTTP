@@ -11,7 +11,7 @@ This script is used for fine-tuning the LLAVA model using the LoRA with our meth
 
 ### Evaluation Script: 
 ```bash
-python scripts/v1_5/finetune_lora.sh
+python LLaVA-main/selfeval/evalaccurcy.py
 ```
 
 ## Diffusion Model<br>
