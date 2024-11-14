@@ -1,4 +1,4 @@
-<span style="font-size: 16px;">FTTP Code Repository</span>
+<span style="font-size: 25px;">FTTP Code Repository</span>
 
 This repository contains the code for the paper **Forget the Token and Pixel: Rethinking Gradient Ascent for Concept Unlearning in Multimodal Generative Models**. The implementation is organized into two main directories, each representing the application of our method on LLaVA and different models.
 
